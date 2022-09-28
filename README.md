@@ -11,7 +11,7 @@
 - 📫 How to reach me **abhisheksaini655@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1664368074~exp=1664368674~hmac=6671f8025e056771083f087b4057842d44badae156cfc9c4259b0c5e4289efbd">
+<img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1664368074~exp=1664368674~hmac=6671f8025e056771083f087b4057842d44badae156cfc9c4259b0c5e4289efbd">
 <p align="left">
 <a href="https://instagram.com/02__abhishek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="02__abhishek_" height="30" width="40" /></a>
 </p>
