@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1060&t=st=1664367025~exp=1664367625~hmac=034a27421ea7f3082a307a9265705e1a39f116a2dd099a1179fad3ac6fe42b38)
+
 <h1 align="center">Hi 👋, I'm Abhishek Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me **abhisheksaini655@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1664368074~exp=1664368674~hmac=6671f8025e056771083f087b4057842d44badae156cfc9c4259b0c5e4289efbd">
+
 <p align="left">
 <a href="https://instagram.com/02__abhishek_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="02__abhishek_" height="30" width="40" /></a>
 </p>
