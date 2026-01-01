@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-saini-01&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-saini-01" /> </p>
 
 
-
-- 👨‍💻 All of my projects are available at [https://abhisheksaini.co.in/](https://abhisheksaini.co.in/)
-
 - 📫 How to reach me **abhisheksaini655@gmail.com**
 
 
